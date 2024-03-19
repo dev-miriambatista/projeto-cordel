@@ -26,19 +26,18 @@ html,body {
     margin: 0px;
 }
 
-header {
-    
-    padding-top: 35px;
+header {    
+    padding-top: 25px;
     height: 200px;
     background-color: black;
     color: white;
     text-align: center;
     font-size: 2.5vh;
-    line-height: 4em;
+    line-height: 3em;
 }
 
 h1 {  
-    padding-top: 30px;
+    padding-top: 20px;
     margin:0px;
     padding-bottom: 0px;
     font-variant: small-caps;
@@ -69,13 +68,13 @@ a:hover {
 section {
     padding-top: 30px;
     padding-bottom: 30px;
-    line-height: 2em;    
+    line-height: 1.75em;    
 }
 
 section>p{
     padding:35px;
     font-family:var(--fonte3);
-    font-size: 4vh;
+    font-size: 3.5vh;
     padding-left: 30px;
     line-height: 1.5em;
 }
