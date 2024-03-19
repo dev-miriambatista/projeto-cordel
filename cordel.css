@@ -27,13 +27,12 @@ html,body {
 
 header { 
     width: 100%;
-    height: auto;  
-    height: 150px;
-    padding-top: 20px;
+    height:auto;
     background-color: black;
     color: white;
     text-align: center;
     font-size: 2vh;
+    line-height:auto;
 }
 
 h1 {  
