@@ -31,7 +31,7 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 1.5vh;
+    font-size: 2vh;
 }
 
 h1 {  
@@ -45,7 +45,7 @@ h1 {
 
 header p{
     display: inline-block;
-    line-height: 1em;
+    line-height: 0.5em;
     
 }
 
