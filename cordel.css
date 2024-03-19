@@ -26,20 +26,17 @@ html,body {
     margin: 0px;
 }
 
-header {    
-    padding-top: 25px;
+header {   
     height: 200px;
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 2.5vh;
-    line-height: 3em;
+    font-size: 1.5vh;
 }
 
 h1 {  
     padding-top: 20px;
     margin:0px;
-    padding-bottom: 0px;
     font-variant: small-caps;
     font-family:var(--fonte2);
     font-size: 10vh;
@@ -48,6 +45,7 @@ h1 {
 
 header p{
     display: inline-block;
+    line-height: 1em;
     
 }
 
