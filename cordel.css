@@ -43,7 +43,7 @@ h1 {
     padding-bottom: 0px;
     font-variant: small-caps;
     font-family:var(--fonte2);
-    font-size: 13vh;
+    font-size: 10vh;
    
 }
 
@@ -78,7 +78,6 @@ section>p{
     font-size: 5vh;
     padding-left: 50px;
     line-height: 1.5em;
-    text-align: center;
 }
 
 section.normal {
