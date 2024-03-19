@@ -27,23 +27,29 @@ html,body {
 }
 
 header {
-    padding-top: 50px;
-    height: 260px;
+    
+    padding-top: 35px;
+    height: 200px;
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 1em;
+    font-size: 2.5vh;
+    line-height: 4em;
 }
 
 h1 {  
+    padding-top: 30px;
+    margin:0px;
     padding-bottom: 0px;
     font-variant: small-caps;
     font-family:var(--fonte2);
-    font-size: 12vh;
+    font-size: 13vh;
+   
 }
 
 header p{
     display: inline-block;
+    
 }
 
 a {
@@ -69,8 +75,10 @@ section {
 section>p{
     padding:35px;
     font-family:var(--fonte3);
-    font-size: 3.5vh;
+    font-size: 5vh;
     padding-left: 50px;
+    line-height: 1.5em;
+    text-align: center;
 }
 
 section.normal {
