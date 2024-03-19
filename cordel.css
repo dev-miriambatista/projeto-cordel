@@ -31,11 +31,12 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 2vh;
+    font-size: 1.5vh;
 }
 
 h1 {  
     padding-top: 20px;
+    margin:0px;
     font-variant: small-caps;
     font-family:var(--fonte2);
     font-size: 10vh;
