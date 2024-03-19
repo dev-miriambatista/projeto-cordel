@@ -37,11 +37,10 @@ header {
 
 h1 {  
     padding-top: 20px;
-    margin:0px;
     font-variant: small-caps;
     font-family:var(--fonte2);
     font-size: 10vh;
-    line-height:auto;
+    line-height:8vh;
    
 }
 
