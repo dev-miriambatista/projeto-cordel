@@ -71,8 +71,9 @@ section {
 
 section>p{
     padding:35px;
+    margin-right: 0.5px;
     font-family:var(--fonte3);
-    font-size: 3vh;
+    font-size: 4vh;
     padding-left: 30px;
     line-height: 1.5em;
 }
