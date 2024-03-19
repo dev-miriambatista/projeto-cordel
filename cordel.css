@@ -64,13 +64,13 @@ a:hover {
 }
 
 section {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     line-height: 1.75em;    
 }
 
 section>p{
-    padding:35px;
+    padding:30px;
     margin-right: 0.5px;
     font-family:var(--fonte3);
     font-size: 4vh;
